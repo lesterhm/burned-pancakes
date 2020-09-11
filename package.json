@@ -42,7 +42,7 @@
     "babel-core": "7.0.0-bridge.0",
     "husky": "^3.0.0",
     "lint-staged": "^9.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "require.all": "^2.0.4",
     "sass-loader": "^7.1.0",
     "stylelint": "^10.1.0",
